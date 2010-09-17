@@ -1,0 +1,9 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/imatch.rb
+lib/lexicon.rb
+lib/data/en.dat
+test/test_imatch.rb

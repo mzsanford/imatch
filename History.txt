@@ -1,0 +1,10 @@
+=== 0.1.0 / 2010-09-17
+
+* Milestone: First version released as open source
+* Feature: Initial implementation of imatch with default English dictionary
+* Feature: Initial code tests: rcov reporting 100% coverage.
+
+=== 0.0.1 / 2010-08-31
+
+* Initial code creation
+
